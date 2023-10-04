@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "TP01-Révisions-UI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TP01-Révisions-UI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
